@@ -15,6 +15,7 @@ body {
     top: 59px;
     position: relative;
     overflow: auto;
+    margin: 0px 12px;
 }
 
 .main_bottom {
@@ -45,7 +46,7 @@ body {
 }
 
 .main_footer {
-    margin: 96px 0 0 0;
+   
     background: #26466f;
     height: 41px;
     display: flex;
@@ -61,4 +62,17 @@ body {
 .main_footer_2 {
     background: #131A22;
     height: 200px;
+}
+.main_page{
+    background: #E3E6E6;
+margin: 0 auto;
+  margin-bottom: 0px;
+max-width: none;
+min-width: 1000px;
+overflow: hidden;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 19px;
 }
