@@ -52,16 +52,19 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    width:100%;
 }
 
 .main_footer_1 {
     background: #232F3E;
     height: 253px;
+    width:100%;
 }
 
 .main_footer_2 {
     background: #131A22;
     height: 200px;
+    width:100%;
 }
 .main_page{
     background: #E3E6E6;
