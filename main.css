@@ -71,7 +71,7 @@ body {
 margin: 0 auto;
   margin-bottom: 0px;
 max-width: none;
-min-width: 1000px;
+min-width: 100%;
 overflow: hidden;
 }
 .image{
